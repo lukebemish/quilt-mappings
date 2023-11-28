@@ -1,5 +1,5 @@
-CLASS net/minecraft/unmapped/C_hdtifwml net/minecraft/resource/pack/CompositeResourcePack
-	COMMENT A {@link ResourcePack} consisting of a primary resource pack and one or more overlays.
+CLASS net/minecraft/unmapped/C_hdtifwml net/minecraft/resource/pack/LayeredResourceView
+	COMMENT A {@link ResourceView} consisting of a primary resource pack and one or more overlays.
 	FIELD f_gyptkxaa primary Lnet/minecraft/unmapped/C_tguinuvn;
 	FIELD f_uchhhtst packs Ljava/util/List;
 	METHOD <init> (Lnet/minecraft/unmapped/C_tguinuvn;Ljava/util/List;)V

@@ -22,7 +22,7 @@ CLASS net/minecraft/unmapped/C_tmnrpasf net/minecraft/resource/ResourceManager
 			COMMENT the starting path to begin scanning from
 		ARG 2 pathFilter
 			COMMENT a predicate to determine whether a path should be included or not
-	METHOD m_esahrnwm streamResourcePacks ()Ljava/util/stream/Stream;
+	METHOD m_esahrnwm streamResourceViews ()Ljava/util/stream/Stream;
 		COMMENT Gets a stream of loaded resource packs in increasing order of priority.
 		COMMENT
 		COMMENT @return the stream of loaded resource packs

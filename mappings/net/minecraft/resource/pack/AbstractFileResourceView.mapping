@@ -1,4 +1,4 @@
-CLASS net/minecraft/unmapped/C_dkmbwhta net/minecraft/resource/pack/AbstractFileResourcePack
+CLASS net/minecraft/unmapped/C_dkmbwhta net/minecraft/resource/pack/AbstractFileResourceView
 	FIELD f_dfgvktmr LOGGER Lorg/slf4j/Logger;
 	FIELD f_gcnymrws builtin Z
 	FIELD f_qdenbvqk name Ljava/lang/String;
